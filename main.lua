@@ -7,7 +7,7 @@ Discord: kp1ners#0722
 YouTube: @kp1ners
 copy and execute in cheat:
 ======================================================================================================
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ArlanDiscord/gamegithub/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArlanDiscord/hideandseek/main/main.lua"))()
 ======================================================================================================
 ]]--
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
